@@ -7,7 +7,7 @@ const app = express();
 
 // Seta as configurações do CORS. No caso, especifica que apenas conexões de tal endereço serão aceitas. Ver: // https://expressjs.com/en/resources/middleware/cors.html
 var corsOptions = {
-  origin: "http://localhost:4200"
+  origin: "https://guilhermesigoli-crudtc2.vercel.app"
 };
 
 // Ativa a configuração CORS
