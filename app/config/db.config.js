@@ -1,3 +1,3 @@
 module.exports = {
-    url: "mongodb://localhost:27017/bancoTeste"
+    url: "mongodb+srv://admin:admin@cluster0.kwjef.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
 };
